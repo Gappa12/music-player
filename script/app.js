@@ -9,7 +9,7 @@ const musicContainer = document.querySelector(".music-container"),
   cover = document.querySelector("#cover");
 
 // * Song Title
-const songs = ["arcade", "the lion sleeps tonighttelepatía", "telepatía"];
+const songs = ["arcade", "the lion sleeps tonight", "telepatía"];
 
 // * Keep track of the songs
 let songIndex = 2;
